@@ -1,0 +1,1 @@
+Basic Python CLI dictionary based on an Udemy tutorial. Rudimentary spell checking included.
